@@ -1,5 +1,7 @@
 # ![Screenshot of Laragon Dashboard Logo](assets/favicon/favicon-32x32.png)  Laragon Dashboard  
 
+**This is FORK version of Laragon Dashboard by LebToki. Itended to merge all things to one PHP file.**
+
 # Welcome to the Laragon Dashboard ! 
 
 Attention developers!
